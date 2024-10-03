@@ -1,0 +1,29 @@
+AUGUST TO-DO
+------------
+-Add textures for In-World world blocks with binary secret messages{Progress: 8/590}
+-Find out how  to update surounding chunks
+-Add lodes of materials(grounps of blocks)
+-Make the world infinite
+-Create as second material on the zobie(alternating betwen red and clear depending on player hit)
+-Create a sound for when the player gets hit
+-Create a sound for when the alligator gets hit
+-Make an alligator model/animations etc...
+-Improve the biome systen(Make a block of biomes when generating them)
+-Create textures-Make a basic inventory system so I can cut down a tree with a copper axe
+-Make water
+-Make a radius arous you where mobscan spawn and destroy the mobs who arent on active chunks
+
+
+
+FUTURE TO-DO
+--------
+-Make a better cursor Icon by doing vector art and a circle type with barely different colored-triangles
+-Find out why the placeterrain function is not doing good
+-Add the Q-tip mob
+Use spectograms to add easter eggs to my game
+
+
+KNOWN BUGS
+-----------
+Zombies falls if the player gets too far away because of how the chunkssgenerates and de-generate
+Placing terrain has a kind of bleed effect where the main texture is surrounded by other textures
